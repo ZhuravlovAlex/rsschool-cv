@@ -14,3 +14,13 @@ Self-motivated, passionate, and client-oriented Project Manager with over 20 yea
 5. Ability to manage large budgets effectively.
 6. Expert level leadership skills.
 7. Excellent planning skills
+## Courses ##
+* Video courses HTML5 and CSS3
+* Computer Science Basics (Learn Digital Platform by EPAM)
+* RS School Course "JavaScript/Front-end. Stage 0" (in progress)
+## Code example ##
+```
+console.log("loaded");
+
+let a = 10;
+```
