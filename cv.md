@@ -24,3 +24,6 @@ console.log("loaded");
 
 let a = 10;
 ```
+## Language ##
+* Russian and Belorussian - Native
+* English - A2
