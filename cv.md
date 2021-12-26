@@ -20,9 +20,11 @@ Self-motivated, passionate, and client-oriented Project Manager with over 20 yea
 * RS School Course "JavaScript/Front-end. Stage 0" (in progress)
 ## Code example ##
 ```
-console.log("loaded");
-
 let a = 10;
+while(a < 100) {
+    console.log(a);
+    a += 7;
+}
 ```
 ## Language ##
 * Russian and Belorussian - Native
