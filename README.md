@@ -1,2 +1,3 @@
 # rsschool-cv
-rsschool-cv for beginners
+https://zhuravlovalex.github.io/rsschool-cv/
+https://zhuravlovalex.github.io/rsschool-cv/cv
