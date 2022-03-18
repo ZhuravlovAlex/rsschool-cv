@@ -17,7 +17,8 @@ Self-motivated, passionate, and client-oriented Project Manager with over 20 yea
 ## Courses ##
 * Video courses HTML5 and CSS3
 * Computer Science Basics (Learn Digital Platform by EPAM)
-* RS School Course "JavaScript/Front-end. Stage 0" (in progress)
+* RS School Course "JavaScript/Front-end. Stage 0"
+* RS School Course "JavaScript/Front-end. Stage 1" (in progress)
 ## Code example ##
 ```
 let a = 10;
